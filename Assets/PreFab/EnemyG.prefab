@@ -21,7 +21,6 @@ GameObject:
   - component: {fileID: 4551648553587168}
   - component: {fileID: 33624143350656746}
   - component: {fileID: 23335205394332380}
-  - component: {fileID: 65616037240207312}
   m_Layer: 0
   m_Name: EnemyG
   m_TagString: Untagged
@@ -84,15 +83,3 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1783135328665446}
   m_Mesh: {fileID: 4300006, guid: ec2ed6fafcc53c64ba923b9ef7d5749f, type: 3}
---- !u!65 &65616037240207312
-BoxCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1783135328665446}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.6627087, y: 0.48463207, z: 0.14032473}
-  m_Center: {x: 3.330669e-16, y: 5.2735594e-16, z: -0.0000000037252907}

@@ -62,9 +62,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CollisionHandler.cs" />
+    <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\MusicPlayer.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\Scripts\ScoreBoard.cs" />
+    <Compile Include="Assets\Scripts\SelfDestructor.cs" />
     <None Include="Assets\epyphany\ReadMe.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/jacobmetcalf/Desktop/Unity/Simulation Invaders/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
